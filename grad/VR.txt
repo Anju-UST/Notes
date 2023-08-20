@@ -1,0 +1,5 @@
+Hi my name is Anju Rachel Reji, a recently trained Java full stack developer.im very happy that i have been given a chance to represent me and my skills infront of you. //im very interested in web development and other related areas and thats the reason why i want to work with UST.
+During my training, I gained hands-on experience in developing full stack applications using Java.
+I'm proficient in SQL for efficient management of relational databases. Additionally, I received training in Angular, enabling me to create dynamic and interactive user interfaces.
+I have also attained expertise in Spring Boot, an influential Java-based framework designed to accelerate the development of scalable applications.
+Throughout my training, I stayed updated with the latest industry practices and emerging trends.The reason why i want to stay in Java is that java development is collaborative from designing interfaces to creating dynamic applications java developers are involved at every stages of the development process.

@@ -1,0 +1,19 @@
+attendance:98.99
+pre hiring qualifier 56.67
+pre training assessment:56.52
+
+module 1:91.28
+module 2:71.70
+module 3:0
+module 4:20.83
+
+foundation attempt 1:83.75
+foundation attempt 2:na
+
+module 1 advanced:85.05
+module 2 advanced:13.04
+
+advanced attempt 1:92.67
+advanced attempt 2:na
+
+hackathon score:88.68
